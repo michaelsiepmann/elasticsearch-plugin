@@ -21,7 +21,7 @@
     -->
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="de.swr.misi.idea.plugins.elasticsearch.ElasticsearchToolWindowFactory"/>
+        <toolWindow id="Elasticsearch" anchor="right" factoryClass="de.swr.misi.idea.plugins.elasticsearch.ElasticsearchToolWindowFactory"/>
     </extensions>
 
     <application-components>
